@@ -69,12 +69,13 @@
   background: #233F6E;
 }
 
-/*.grid div:nth-child(10) {
+.grid div:nth-child(10) {
   grid-row: 13/15;
   grid-column: 1/3;
   background: #B8BEC9;
 }
-.grid div:nth-child(11) {
+
+/*.grid div:nth-child(11) {
   grid-column: 3/7;
 }
 
