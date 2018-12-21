@@ -48,12 +48,13 @@
   background: #151B0D;
 }
 
-/*.grid div:nth-child(6), .grid div:nth-child(7) {
+.grid div:nth-child(6), .grid div:nth-child(7) {
   grid-column: 3/5;
   grid-row: 9/11;
   background: #B8BEC9;
 }
-.grid div:nth-child(7) {
+
+/*.grid div:nth-child(7) {
   grid-row: 11/13;
 }
 .grid div:nth-child(8) {
