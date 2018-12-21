@@ -13,7 +13,7 @@
   height: 1.5em;
 }
 
-/*.grid {
+.grid {
   font-size: 4vmin;
   display: grid;
   grid-template-columns: repeat(6, 14vmin);
@@ -21,7 +21,8 @@
   background: #151B0D;
   grid-gap: 0.7em;
 }
-.grid > div {
+
+/*.grid > div {
   background: #DBD9DE;
 }
 .grid div:nth-child(1) {
