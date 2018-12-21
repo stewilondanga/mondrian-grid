@@ -58,11 +58,12 @@
   grid-row: 11/13;
 }
 
-/*.grid div:nth-child(8) {
+.grid div:nth-child(8) {
   grid-column: 5/7;
   grid-row: 9/11;
 }
-.grid div:nth-child(9) {
+
+/*.grid div:nth-child(9) {
   grid-column: 5/7;
   grid-row: 11/14;
   background: #233F6E;
