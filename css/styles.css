@@ -9,12 +9,11 @@
   height: 2.5em;
 }
 
-/*
 .my_social a img {
   height: 1.5em;
 }
 
-.grid {
+/*.grid {
   font-size: 4vmin;
   display: grid;
   grid-template-columns: repeat(6, 14vmin);
