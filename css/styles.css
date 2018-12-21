@@ -75,11 +75,11 @@
   background: #B8BEC9;
 }
 
-/*.grid div:nth-child(11) {
+.grid div:nth-child(11) {
   grid-column: 3/7;
 }
 
-.containers {
+/*.containers {
   width: 520px;
   margin: 20px auto;
 }
